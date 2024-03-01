@@ -8,7 +8,7 @@
 
 **Deviazione dal greto del torrente verso la Piella**
 ## QRtag: Riparo 2
-[<img src='vignettes/wTHnqrF3.jpg' width='250'/>](vignettes/wTHnqrF3.jpg) 
+[<img src='qrtags/1111111.png' width='150'/>](qrtags/1111111.png) [<img src='vignettes/wTHnqrF3.jpg' width='250'/>](vignettes/wTHnqrF3.jpg) 
 
 **Riparo sottoroccia**
 ## POI: Ingresso Piella
